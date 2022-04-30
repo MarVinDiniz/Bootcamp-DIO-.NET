@@ -1,2 +1,11 @@
 Git Bash é um terminal extendido para otimizar o uso do Git.
 
+git clone "link github" // add na maquina o repositorio criado no GitHub
+
+git status 
+
+git add . // adiciona tudo na pasta
+
+git commit -m "Descrição" // cria o commit local, para mandar para a nuvem precisa do push
+
+git push origin main // manda tudo da maquina para a nuvem/GitHub
